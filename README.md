@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartWallet AI - MERN + FastAPI Fraud Check
 
 This project is split into 3 parts:
@@ -56,3 +57,6 @@ npm run dev
 - The frontend currently uses demo user IDs.
 - To fully test, create users in MongoDB (or extend backend with a create-user endpoint).
 
+=======
+# SmartWallet
+>>>>>>> 993aee6f4dd6bca7fc20dd67a4776994e4d20bc5
