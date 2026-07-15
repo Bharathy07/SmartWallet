@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Simple, clean theme helpers */
+:root {
+  --card: rgba(255, 255, 255, 0.7);
+}
+
